@@ -1,3 +1,5 @@
+package org.study.lesson.one.retry;
+
 import java.util.Scanner;
 
 public class Main {
@@ -50,10 +52,6 @@ public class Main {
                 }
 
             }
-
-
-
-
         }
     }
 }
